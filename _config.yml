@@ -2,26 +2,26 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: "Zeeza's Portfolio" # Updated website title
+first_name: Mohammed
+middle_name: 
+last_name: Azeezulla
+email: zeeza18@example.com # Replace with your email if you want to show it, otherwise you can leave it as is
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to my academic portfolio. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: jekyll, academic-website, portfolio, zeeza18 # Add keywords relevant to your portfolio
+lang: en # Language remains unchanged
+icon: ⚛️ # Emoji used as favicon (you can change this if you want)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+url: https://zeeza18.github.io # Update the base hostname to reflect your GitHub Pages URL
+baseurl: /my-al-folio # Update the subpath to match your forked repository name
+last_updated: true # Enable the "last updated" info in the footer
+impressum_path: # Leave this as is if you don’t need an impressum link
+back_to_top: true # Keep "back to top" button enabled
 
 # -----------------------------------------------------------------------------
 # Theme
