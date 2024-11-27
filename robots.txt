@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zeeza18.github.io/my-al-folio/sitemap.xml
